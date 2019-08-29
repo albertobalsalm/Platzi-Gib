@@ -1,1 +1,2 @@
-Mensaje super secreto	
+Mensaje super secreto 1: Comienzo de aprendizaje de GIT
+Mensaje super secreto 2: El aprendizaje sigue en march
