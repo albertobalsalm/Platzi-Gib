@@ -1,5 +1,3 @@
 Mensaje super secreto 1: Comienzo de aprendizaje de GIT
 Mensaje super secreto 2: El aprendizaje sigue en marcha
-Mensaje super secreto 3: Un nuevo comienzo
-
-un nuevo mensaje:"Mi nuevo mensaje"
+Mensaje super secreto 3: Hoy siento como si hubiera perdido algo
