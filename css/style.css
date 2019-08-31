@@ -34,3 +34,11 @@ span{
     font-weight: normal;
     margin-left: 15px;
 }
+
+#footer{
+    margin: 0 auto;
+    background-color: gray;
+    padding: 5px;
+    font-weight: bolder;
+    color: white;
+}
