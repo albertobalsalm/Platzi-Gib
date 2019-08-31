@@ -34,3 +34,15 @@ span{
     font-weight: normal;
     margin-left: 15px;
 }
+
+#picture{
+    height:40px;
+    vertical-align: middle;}
+    
+#footer{
+    margin: 0 auto;
+    background-color: gray;
+    padding: 5px;
+    font-weight: bolder;
+    color: whitesmoke;
+}
