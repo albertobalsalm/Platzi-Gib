@@ -35,10 +35,7 @@ span{
     margin-left: 15px;
 }
 
-#footer{
-    margin: 0 auto;
-    background-color: gray;
-    padding: 5px;
-    font-weight: bolder;
-    color: white;
+#picture{
+    height:40px;
+    vertical-align: middle;
 }
